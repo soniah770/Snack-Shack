@@ -33,7 +33,7 @@ This repository contains **Snack Shack**, a snack-ordering application built wit
 - ✅ Simple and intuitive state management with **Zustand**
 - ✅ Modern UI components with **Shadcn**
 - ✅ Type-safe development with **TypeScript**
-- ✅ Data fetching and caching with 
+  
   
 ## Requirements
 
