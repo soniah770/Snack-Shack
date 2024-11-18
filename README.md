@@ -26,7 +26,9 @@ This repository contains **Snack Shack**, a snack-ordering application built wit
 | **React**      | A JavaScript library for building user interfaces |
 | **Zustand**    | Minimalist state management                  |
 | **TypeScript** | Static typing for JavaScript                 |
-| **Shadcn**        | Comprehensive UI 
+| **Tailwind Css**     | Comprehensive UI 
+| **Shadcn**     | Comprehensive UI 
+
 
 ## Features
 
